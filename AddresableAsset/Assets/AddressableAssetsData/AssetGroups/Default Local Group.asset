@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 025f3c4758cae4baeba84c1010c9c2df
+  m_SerializeEntries:
+  - m_GUID: 0d3105d1629fc4b3b8bcf3491ef49c38
+    m_Address: Assets/AssetBundleFile/1496010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1302d40d669e34b5f93cb353a259c7b0
+    m_Address: Assets/AssetBundleFile/1498010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3241e7038dd7b4295a2cd05e28fc008c
+    m_Address: Assets/AssetBundleFile/1495010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43275c081110c483384cabcf32d1434a
+    m_Address: Assets/AssetBundleFile/1496010402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e6eba322f9e84c229b49408a6a8cb51
+    m_Address: Assets/AssetBundleFile/1499010402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60415238e0b7a4f78a64587ded35c722
+    m_Address: Assets/AssetBundleFile/1497010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72a99b26aa6504c8da96f1682e7bf45f
+    m_Address: Assets/AssetBundleFile/1497010402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86888443849854b4eb1d658ce52cf240
+    m_Address: Assets/AssetBundleFile/1498010402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab1fe96ad1625496681df2b02216dbce
+    m_Address: Assets/AssetBundleFile/1492010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afec4a766b87347ff9f4342655c20298
+    m_Address: Assets/AssetBundleFile/1499010401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc5b6e237724645e8b0d3b6fb3142132
+    m_Address: Assets/AssetBundleFile/AssetObj.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 27595a605bab34e50a71b31372cf578d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80d76578c8d944c7aaa5b985ed515185, type: 2}
+    - {fileID: 11400000, guid: d8b8f6e9414d941f6af9ca6688ce6245, type: 2}
